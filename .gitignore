@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# virtualenv
+env/
+venv/
+chatbot/Lib/
+chatbot/Scripts/
+chatbot/Include/
+
+# VS Code
+.vscode/
+
+# user installs
+AppData/Roaming/Python/
+
+# secrets
+.env
